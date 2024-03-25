@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/cyberimmortal7.github.io/react12/static/css/main.f6a4ddfb.css",
+    "main.js": "/cyberimmortal7.github.io/react12/static/js/main.2e679bce.js",
+    "static/js/453.185d7cde.chunk.js": "/cyberimmortal7.github.io/react12/static/js/453.185d7cde.chunk.js",
+    "static/media/EducateAble Logo - Original with Transparent Background.svg": "/cyberimmortal7.github.io/react12/static/media/EducateAble Logo - Original with Transparent Background.dfbea84270296ec1cf78.svg",
+    "index.html": "/cyberimmortal7.github.io/react12/index.html",
+    "main.f6a4ddfb.css.map": "/cyberimmortal7.github.io/react12/static/css/main.f6a4ddfb.css.map",
+    "main.2e679bce.js.map": "/cyberimmortal7.github.io/react12/static/js/main.2e679bce.js.map",
+    "453.185d7cde.chunk.js.map": "/cyberimmortal7.github.io/react12/static/js/453.185d7cde.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f6a4ddfb.css",
+    "static/js/main.2e679bce.js"
+  ]
+}
